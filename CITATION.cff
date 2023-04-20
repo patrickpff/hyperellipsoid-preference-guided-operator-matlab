@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Ferreira
+    given-names: Patrick
+    orcid: https://orcid.org/1234-5678-9101-1121
+  - family-names: Lacerda
+    given-names: Allysson
+    orcid: https://orcid.org/0000-0002-1647-3916
+  - family-names: Cosme
+    given-names: Luciana
+    orcid: https://orcid.org/0000-0002-3927-0329
+title: "Hyperellipsoid Preference Guided Optimization"
+version: 2.0.4
+doi: 
+date-released: 2023-04-19
